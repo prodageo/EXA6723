@@ -1,0 +1,4 @@
+org\apache\servicemix\examples\drools\simple\model\CustomerType.class
+org\apache\servicemix\examples\drools\simple\osgi\Utils.class
+org\apache\servicemix\examples\drools\simple\osgi\SimpleRuleActivator.class
+org\apache\servicemix\examples\drools\simple\model\Customer.class
