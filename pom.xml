@@ -557,7 +557,7 @@
       <dependency>
         <groupId>org.drools</groupId>
         <artifactId>drools-core</artifactId>
-        <version>6.2.0.Final</version>
+        <version>7.60.0.Final</version>
       </dependency>
       <dependency>
         <groupId>org.drools</groupId>
@@ -568,7 +568,7 @@
       <dependency>
         <groupId>org.drools</groupId>
         <artifactId>drools-core</artifactId>
-        <version>6.2.0.Final</version>
+        <version>7.60.0.Final</version>
         <type>test-jar</type>
         <scope>test</scope>
       </dependency>
@@ -5517,7 +5517,7 @@
     <dependency>
       <groupId>org.drools</groupId>
       <artifactId>drools-core</artifactId>
-      <version>6.2.0.Final</version>
+      <version>7.60.0.Final</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
