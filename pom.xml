@@ -2717,13 +2717,13 @@
       <dependency>
         <groupId>org.apache.karaf</groupId>
         <artifactId>apache-karaf</artifactId>
-        <version>4.0.9</version>
+        <version>4.3.8</version>
         <type>tar.gz</type>
       </dependency>
       <dependency>
         <groupId>org.apache.karaf</groupId>
         <artifactId>apache-karaf</artifactId>
-        <version>4.0.9</version>
+        <version>4.3.8</version>
         <type>zip</type>
       </dependency>
       <dependency>
